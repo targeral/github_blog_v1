@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>targeral.com</title>
+    <link rel="stylesheet" href="/css/normalize.min.css">
+    <link rel="stylesheet" href="/css/style.min.css">
+</head>
+<body>
+    <header id="header">
+        <h1>targeral.com</h1>
+        <a href="index.html">
+        <hgroup>
+        <h2>人生演员</h2>
+        </hgroup>
+        </a>
+        <nav>
+        <span class="nav_icon">
+        <ul>
+            <li><a href="#">About</a></li>
+            <li><a href="#">分类</a></li>
+        </ul>
+        </span>
+        </nav> 
+    </header>
+    <main id="list">
+        <div class="list">
+            <h3>分类</h3>
+            <nav class="list_nav">
+                <a href="#front-end">front-end</a>
+                <a href="#music">音乐</a>
+                <a href="#read">读书</a>
+                <a href="#other">杂文</a>
+            </nav>
+            <ul class="list_content">
+                <li><a name="font-end" id="front-end">front-end</a>
+                    <ul class="content">
+                        <li><a href="#">文章1</a></li>
+                        <li><a href="#">文章2</a></li>
+                        <li><a href="#">文章3</a></li>
+                    </ul>
+                </li>
+                <li><a name="font-end" id="music">Music</a>
+                    <ul class="content">
+                        <li><a href="#">文章1</a></li>
+                        <li><a href="#">文章2</a></li>
+                        <li><a href="#">文章3</a></li>
+                    </ul>
+                </li>
+                <li><a name="font-end" id="read">读书</a>
+                    <ul class="content">
+                        <li><a href="#">文章1</a></li>
+                        <li><a href="#">文章2</a></li>
+                        <li><a href="#">文章3</a></li>
+                    </ul>
+                </li>
+                <li><a name="font-end" id="other">杂文</a>
+                    <ul class="content">
+                        <li><a href="#">文章1</a></li>
+                        <li><a href="#">文章2</a></li>
+                        <li><a href="#">文章3</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </main>
+    <footer id="footer">
+        <p class="f-nav">Targeral Blog • <a href="#">About</a> • <a href="archive.html">分类</a></p>
+        <p class="f-first-line">Copyright © <a href="">Targeral.com.</a> 2016 • All rights reserved.</p>
+        <p class="f-second-line">Proudly published with <a href="">Github.</a></p>
+    </footer>
+    <script src="/js/lib/util.min.js"></script>
+    <script src="/js/app.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function(){
+            app.init("archive");
+        });
+    </script>
+</body>
+</html>

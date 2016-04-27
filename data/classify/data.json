@@ -1,0 +1,26 @@
+{
+    "list_nav" : {
+        "front-end" : "front-end",
+        "music" : "音乐",
+        "read" : "读书",
+        "other" : "杂文"
+    },
+    "list_content" : {
+        "front-end" : {
+            "title" : "front-end",
+            "/blogs/2016.4.25/test.html" : "test"
+        },
+        "music" : {
+            "title" : "音乐",
+            "/blogs/2016.4.25/test.html" : "test"
+        },
+        "read" : {
+            "title" : "读书",
+            "/blogs/2016.4.25/test.html" : "test"
+        },
+        "other" : {
+            "title" : "杂文", 
+            "/blogs/2016.4.25/test.html" : "test"
+        }
+    }
+}
