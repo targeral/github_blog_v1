@@ -1,19 +1,11 @@
 {
     "id_2016425" : {
         "classify" : "other",
-        "title" : "测试",
-        "href" : "blogs/2016.4.25/test.html",
-        "time" : "2016.4.25",
+        "title" : "欢迎来到我的博客",
+        "href" : "blogs/2016.4.27/welcome.html",
+        "time" : "2016.4.27",
         "content" : {
-            "p1" : "测试"
-        }
-    },
-    "id_2016426" : {
-        "classify" : "other",
-        "title" : "测试",
-        "time" : "2016.4.25",
-        "content" : {
-            "p1" : "测试"
+            "p1" : "欢迎来到我的博客"
         }
     }
 }
