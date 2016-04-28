@@ -1,11 +1,20 @@
 {
-    "id_2016425" : {
+    "id_2016427" : {
         "classify" : "other",
         "title" : "欢迎来到我的博客",
         "href" : "blogs/2016.4.27/welcome.html",
         "time" : "2016.4.27",
         "content" : {
             "p1" : "欢迎来到我的博客"
+        }
+    },
+    "id_2016428" : {
+        "classify" : "CSS3",
+        "title" : "CSS3之Background属性",
+        "href" : "blogs/2016.4.27/CSS3-background.html",
+        "time" : "2016.4.28",
+        "content" : {
+            "p1" : "background是一个使用频率很高的属性，也是十分有用的属性。能帮助设计师实现一些特殊的效果，使用起来也非常简单。"
         }
     }
 }
