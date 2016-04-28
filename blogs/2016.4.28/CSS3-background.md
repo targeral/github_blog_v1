@@ -1,7 +1,6 @@
 # CSS3之Background属性
 ## CSS3
 ### 2016.4.28
-#### CSS特性
 
 * **CSS3-Background属性简介**
 
