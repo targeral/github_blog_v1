@@ -3,26 +3,24 @@
         "front-end" : "front-end",
         "music" : "音乐",
         "read" : "读书",
-        "other" : "杂文",
-        "CSS3" : "CSS3"
+        "other" : "杂文"
     },
     "list_content" : {
         "front-end" : {
-            "title" : "front-end"
+            "title" : "front-end",
+            "/blogs/2016.4.25/test.html" : "test"
         },
         "music" : {
-            "title" : "音乐"
+            "title" : "音乐",
+            "/blogs/2016.4.25/test.html" : "test"
         },
         "read" : {
-            "title" : "读书"
+            "title" : "读书",
+            "/blogs/2016.4.25/test.html" : "test"
         },
         "other" : {
             "title" : "杂文", 
-            "/blogs/2016.4.27/welcome.html" : "welcome"
-        },
-        "CSS3" : {
-            "title" : "CSS3",
-            "/blogs/2016.4.28/CSS3-background.html" : "CSS3-background"
+            "/blogs/2016.4.25/test.html" : "test"
         }
     }
 }
